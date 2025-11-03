@@ -1,6 +1,6 @@
 # AprendeUDBApp 📚 (Proyecto DSM — UDB 2025)
 
-**Aplicación Android** desarrollada en **Kotlin** (modo oscuro, Material Design) para el Tercer Desafío Práctico de *Desarrollo de Software para Móviles* — Universidad Don Bosco.
+**Aplicación Android** desarrollada en **Kotlin** para el Tercer Desafío Práctico de *Desarrollo de Software para Móviles*
 
 ---
 
@@ -23,31 +23,15 @@ AprendeUDBApp permite a los estudiantes:
 - RecyclerView + SwipeRefreshLayout
 
 ---
+👨‍💻 Autor
 
-## 📁 Estructura del proyecto (resumen)
+Nombre: Diego Antonio Flores Herrera.
 
-AprendeUDBApp/
+Carnet: FH240388
 
-├─ app/
+Materia: Desarrollo de Software para Móviles (DSM)
 
-│ ├─ src/main/java/com/example/aprendeudbapp/
+Universidad Don Bosco
 
-│ │ ├─ data/
+---
 
-│ │ │ ├─ api/ (ApiService.kt)
-
-│ │ │ ├─ model/ (Resource.kt)
-
-│ │ │ └─ repository/ (ResourceRepository.kt)
-
-│ │ ├─ ui/
-
-│ │ │ ├─ login/ (LoginActivity.kt)
-
-│ │ │ ├─ register/ (RegisterActivity.kt)
-
-│ │ │ ├─ main/ (MainActivity.kt)
-│ │ │ └─ adapter/ (ResourceAdapter.kt)
-│ │ └─ utils/ (ValidationUtils.kt)
-│ └─ res/ (layouts, values, drawables)
-└─ README.md
