@@ -27,15 +27,25 @@ AprendeUDBApp permite a los estudiantes:
 ## 📁 Estructura del proyecto (resumen)
 
 AprendeUDBApp/
+
 ├─ app/
+
 │ ├─ src/main/java/com/example/aprendeudbapp/
+
 │ │ ├─ data/
+
 │ │ │ ├─ api/ (ApiService.kt)
+
 │ │ │ ├─ model/ (Resource.kt)
+
 │ │ │ └─ repository/ (ResourceRepository.kt)
+
 │ │ ├─ ui/
+
 │ │ │ ├─ login/ (LoginActivity.kt)
+
 │ │ │ ├─ register/ (RegisterActivity.kt)
+
 │ │ │ ├─ main/ (MainActivity.kt)
 │ │ │ └─ adapter/ (ResourceAdapter.kt)
 │ │ └─ utils/ (ValidationUtils.kt)
